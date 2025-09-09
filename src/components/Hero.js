@@ -48,6 +48,13 @@ const Hero = () => {
             <a href="#contact" className="btn btn-secondary">
               Связаться
             </a>
+            <a
+              href="/docs/Монхоров Михаил Ричардович.pdf"
+              download
+              className="btn btn-primary"
+            >
+              ⬇️ Скачать PDF
+            </a>
           </div>
         </div>
         <div className="hero-image">
