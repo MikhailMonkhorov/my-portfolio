@@ -20,7 +20,7 @@ const About = () => {
           </div>
           <div className="about-image">
             <img
-              src="public/images/profile.jpg"
+              src="public/img/profile.jpg"
               alt="Мое фото"
               className="profile-photo"
             />
