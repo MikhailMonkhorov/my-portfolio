@@ -49,7 +49,7 @@ const Hero = () => {
               Связаться
             </a>
             <a
-              href={`${process.env.PUBLIC_URL}/resume.pdf`}
+              href={`${process.env.PUBLIC_URL}/Монхоров Михаил Ричардович.pdf`}
               download
               className="btn btn-primary"
             >
