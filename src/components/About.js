@@ -20,7 +20,7 @@ const About = () => {
           </div>
           <div className="about-image">
             <img
-              src="public/img/profile.jpg"
+              src={`${process.env.PUBLIC_URL}/img/profile.jpg`}
               alt="Мое фото"
               className="profile-photo"
             />
