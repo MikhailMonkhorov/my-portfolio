@@ -53,7 +53,7 @@ const Hero = () => {
               download="resume.pdf"
               className="btn btn-primary"
             >
-              ⬇️ Скачать PDF резюме
+              📄 Скачать резюме
             </a>
           </div>
         </div>
