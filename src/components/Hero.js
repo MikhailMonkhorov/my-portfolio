@@ -49,8 +49,8 @@ const Hero = () => {
               Связаться
             </a>
             <a
-              href={`${process.env.PUBLIC_URL}/Монхоров Михаил Ричардович.pdf`}
-              download="Монхоров Михаил Ричардович.pdf"
+              href={`${process.env.PUBLIC_URL}/resume.pdf`}
+              download="resume.pdf"
               className="btn btn-primary"
             >
               ⬇️ Скачать PDF резюме
