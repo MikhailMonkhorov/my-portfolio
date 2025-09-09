@@ -49,11 +49,11 @@ const Hero = () => {
               Связаться
             </a>
             <a
-              href="/docs/Монхоров Михаил Ричардович.pdf"
+              href={`${process.env.PUBLIC_URL}/resume.pdf`}
               download
               className="btn btn-primary"
             >
-              ⬇️ Скачать PDF
+              ⬇️ Скачать PDF резюме
             </a>
           </div>
         </div>
